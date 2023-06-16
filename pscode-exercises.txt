@@ -1,0 +1,50 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+int number1, number2, 
+    
+    printf("Enter two integers: ");
+
+    // calculate the sum
+    sum = number1 + number2;
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Int num
+	Printf(“Enter an integer”)
+
+If(num/2 == 0)
+	printf("num is an even number");
+   else
+      printf("num is an odd number");
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+Read in 5 separate numbers. 
+
+Int num1, num2, num3, num4,num5
+	Printf(“Enter 5 unique numbers”)
+  
+Calculate the average of the five numbers.
+
+Calc Sum1 = (num1+num2+num3+num4+num5)
+Calc Avg1 = Sum1/5
+
+ 
+Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+Int num1, num2, num3, num4,num5
+	Printf(“Enter 5 unique numbers”)
+Calc MinX = MIN(num1, num2, num3, num4, num5)
+Calc MaxX = MAX(num1, num2, num3, num4, num5)
+
+d) Write out the results found from steps b and c with a message describing what they are
+
+Display Avg1
+	printf(“The average of the five numbers inputted is Avg1”)
+Display MinX
+	printf(“The smallest number is MinX”)
+Display MaxX
+	printf(“The biggest number is MaxX”)
+
+
+-- END --
